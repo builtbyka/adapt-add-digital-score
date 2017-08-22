@@ -1,0 +1,17 @@
+{
+    "name": "adapt-add-digital-point-tally",
+    "repository": "",
+    "framework": "^1.0.0",
+    "version": "1.0.0",
+    "homepage": "",
+    "issues": "",
+    "displayName": "Digital point tally for Adapt",
+    "extension": "Digital point tally for Adapt",
+    "description": "Digital point tally at page level",
+    "main": "/js/adapt-digital-point-tally.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-extension"
+    ],
+    "license": "GPLv3"
+}
